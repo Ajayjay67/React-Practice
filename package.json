@@ -4,6 +4,8 @@
   "description": "Learning react",
   "main": "index.js",
   "scripts": {
+    "start": "parcel Day01/SampleProject2/source.html",
+    "build": "parcel Day01/SampleProject2/source.html",
     "test": "jest"
   },
   "repository": {
