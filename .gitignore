@@ -1,3 +1,4 @@
 /node_modules
 /Day01/SampleProject2/dist
 /.parcel-cache
+/dist
